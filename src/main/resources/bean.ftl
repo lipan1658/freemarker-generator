@@ -1,6 +1,7 @@
 package ${packageName};
 
 import com.alibaba.fastjson.JSONObject;
+import java.util.Date;
 
 /**
 * 〈一句话功能简述〉
