@@ -1,0 +1,2 @@
+# freemarker-generator
+使用freemarker快速生成java类和sql文件
