@@ -1,0 +1,4 @@
+# Project exclude paths
+/target/
+freemarker-generator.iml
+.idea/**
